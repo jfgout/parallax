@@ -11,4 +11,4 @@ This is typically obtained by taking a picutre at the exact same time, aligning 
 
 3. The position in the sky (Altitude and Azimuth) of the object from point A
 
-See: test.R for an example of how to use the code.
+See: example.R for an example of how to use the code.
