@@ -1,6 +1,6 @@
 # parallax
 
-Just a small piece of R code to measure distance from Earth to an object in space based on the parralax method.
+Just a small piece of R (https://www.r-project.org/) code to measure distance from Earth to an object in space based on the parralax method.
 Two types of calculations are offered: (1) regular parallax (useful for computing distance to the Moon or a nearby asteroid) and (2) transit parallax (dedicated to measuring the distance to a satellite during a lunar/solar transit).
 
 What's required:
